@@ -1,0 +1,51 @@
+body{
+    margin: 0%;
+}
+.boarder{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(190, 116, 6);}
+#yum{
+    width: 100px;
+    height: 100px;
+    padding-left:0px;
+    border-radius: 20%;
+    padding-top:-50px;
+}
+#choco{
+   color: rgb(249, 212, 26);
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+.content{
+    width: 100%;
+    height: 450px;
+}
+#pict{
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+.slell{
+    background-color: brown;
+    width: 100%;
+    height: 150px;
+}
+#piw{
+    width: 150px;
+    height: 120px;
+    padding-left: 150px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.footer{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+#cp{
+    text-decoration: none;
+    color: rgb(205, 33, 33);
+}

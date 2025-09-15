@@ -1,0 +1,70 @@
+body{
+margin: 0%;
+ 
+}
+.boarder{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(190, 116, 6);}
+#yum{
+    width: 100px;
+    height: 40px;
+    padding-left:0px;
+    border-radius: 20%;
+    padding-top:-50px;
+}
+#choco{
+   color: rgb(228, 227, 222);
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+.content{
+    width: 100%;
+    height: 450px;
+}
+#pict{
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+.regform{
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px;
+    place-items: center;
+    /* padding-top: 60px; */
+    border-radius: 10px;
+}
+.maindiv{
+    place-items: center;
+    margin-top: 30px;
+}
+label{
+    font-size: 20px;
+    color: black;
+}
+
+input{
+    font-size: 20px;
+    border-radius: 5px;
+}
+button{
+    font-size: 15px;
+    border-radius: 2px;
+    background-color: brown;
+    color:yellow;
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+}
+body{
+    background-image: url(mklll.webp);
+    background-size: cover;
+}
+
